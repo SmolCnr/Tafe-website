@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(10, 10, 10);
+    color: rgb(160, 70, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+/* Orange juice is superior to all other juices */
+h1 {
+    text-decoration:overline
+}
+p {
+    color: rgb(0, 255, 149);
+}
+
+.first {
+    color: palevioletred;
+}
+.face {
+    color: bisque;
+}
+.face li:last-child {
+    color: crimson;
+}
+.face li:nth-child(2) {
+    color: darkorange;
+}
